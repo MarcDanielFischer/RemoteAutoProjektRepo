@@ -19,7 +19,7 @@ public class Auto {
 	}
 	
 	// Konstruktor mit usesr defined values
-	public Auto(int raeder, int ps, String farbe){
+	public Auto(int raeder, int ps, String farbe, String marke){
 		this.raeder = raeder;
 		this.ps = ps;
 		this.farbe = farbe;
