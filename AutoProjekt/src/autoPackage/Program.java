@@ -8,6 +8,8 @@ public class Program {
 		
 		Auto bmw = new Auto("BMW");
 		bmw.fahren();
+		
+		System.out.println("Write Something");
 
 	}
 
